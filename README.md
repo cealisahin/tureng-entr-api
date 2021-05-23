@@ -11,6 +11,7 @@ CONFIG
 
 
 fileName in app.js is exportfile
+
 delayTime in app.js is requet time to tureng.com;
 
 
